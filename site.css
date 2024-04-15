@@ -1,0 +1,34 @@
+p {
+    font-family: serif;
+}
+
+table {
+    width: 50%;
+    border: solid;
+}
+
+th,
+td {
+    text-align: center;
+    border: solid;
+    background-color: rgba(92, 92, 217, 0.099);
+
+}
+
+h1 {
+    color: rgb(119, 22, 136);
+}
+
+.image img {
+    width: 200px;
+    height: 200px;
+}
+
+footer {
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+
+}
