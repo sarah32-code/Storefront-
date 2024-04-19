@@ -2,7 +2,7 @@
 
 Welcome to Sweet Bliss Bakery, where every bite is a celebration of sweetness and delight. Nestled in the heart of the city, our bakery is a haven for cake enthusiasts and dessert aficionados alike. As you step inside, you'll be greeted by the irresistible aroma of freshly baked treats, beckoning you to explore our delectable creations. From classic layer cakes to artisanal cupcakes, our pastry chefs pour their passion into every masterpiece, ensuring each bite is a moment of pure joy.
 
-![Sweet Bliss Bakery](images/readme1.png)
+![Sweet Bliss Bakery](images/readme1png.png)
 
 ## About Us
 
@@ -13,7 +13,7 @@ At Sweet Bliss Bakery, we believe that life's special moments deserve to be cele
 - **Wide Selection:** Indulge in our wide selection of delectable cakes, ranging from classic favorites to unique creations that will tantalize your taste buds.
 - **Custom Designs:** Looking for something unique? Our talented pastry chefs specialize in creating custom cake designs for all occasions, ensuring your cake is as special as the celebration itself.
 - **Personalized Consultations:** Schedule a personalized cake tasting consultation with our team to discuss your vision and preferences. We'll work with you to create a cake that perfectly reflects your style and tastes.
-![Sweet Bliss Bakery](images/readme2.png)
+![Sweet Bliss Bakery](images/readme3.png)
 
 ## Contact Us
 
